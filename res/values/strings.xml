@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World</string>
+    <string name="app_name">AsyncHttpImage</string>
+
+    <string-array name="urllist">
+        <item>http://www.pastemagazine.com/blogs/lists/2011/04/30/Brian%20Wilson.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/04/30/Daniel%20Johnston.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/04/30/Syd%20Barrett.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/04/30/Roky%20Erickson.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/04/30/Kurt%20Cobain.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/04/30/Ray%20Davies.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/05/01/Sinead%20O\'Connor.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/05/01/Poly%20Styrene.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/04/30/Brian%20Wilson.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/04/30/Daniel%20Johnston.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/04/30/Syd%20Barrett.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/04/30/Roky%20Erickson.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/04/30/Kurt%20Cobain.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/04/30/Ray%20Davies.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/05/01/Sinead%20O\'Connor.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/05/01/Poly%20Styrene.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/04/30/Brian%20Wilson.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/04/30/Daniel%20Johnston.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/04/30/Syd%20Barrett.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/04/30/Roky%20Erickson.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/04/30/Kurt%20Cobain.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/04/30/Ray%20Davies.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/05/01/Sinead%20O\'Connor.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/05/01/Poly%20Styrene.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/04/30/Brian%20Wilson.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/04/30/Daniel%20Johnston.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/04/30/Syd%20Barrett.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/04/30/Roky%20Erickson.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/04/30/Kurt%20Cobain.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/04/30/Ray%20Davies.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/05/01/Sinead%20O\'Connor.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/05/01/Poly%20Styrene.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/04/30/Brian%20Wilson.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/04/30/Daniel%20Johnston.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/04/30/Syd%20Barrett.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/04/30/Roky%20Erickson.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/04/30/Kurt%20Cobain.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/04/30/Ray%20Davies.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/05/01/Sinead%20O\'Connor.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/05/01/Poly%20Styrene.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/04/30/Brian%20Wilson.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/04/30/Daniel%20Johnston.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/04/30/Syd%20Barrett.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/04/30/Roky%20Erickson.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/04/30/Kurt%20Cobain.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/04/30/Ray%20Davies.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/05/01/Sinead%20O\'Connor.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/05/01/Poly%20Styrene.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/04/30/Brian%20Wilson.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/04/30/Daniel%20Johnston.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/04/30/Syd%20Barrett.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/04/30/Roky%20Erickson.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/04/30/Kurt%20Cobain.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/04/30/Ray%20Davies.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/05/01/Sinead%20O\'Connor.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/05/01/Poly%20Styrene.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/04/30/Brian%20Wilson.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/04/30/Daniel%20Johnston.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/04/30/Syd%20Barrett.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/04/30/Roky%20Erickson.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/04/30/Kurt%20Cobain.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/04/30/Ray%20Davies.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/05/01/Sinead%20O\'Connor.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/05/01/Poly%20Styrene.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/04/30/Brian%20Wilson.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/04/30/Daniel%20Johnston.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/04/30/Syd%20Barrett.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/04/30/Roky%20Erickson.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/04/30/Kurt%20Cobain.jpg</item>
+        <item>http://www.pastemagazine.com/blogs/lists/2011/04/30/Ray%20Davies.jpg</item>
+        <item>http://app.qlogo.cn/mbloghead/d235add53b67e416447e/120</item>
+        <item>http://mat1.gtimg.com/www/mb/images/face/28.gif</item>
+        
+    </string-array>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_progressive_image_loading">ProgressiveImageLoadingActivity</string>
+
+</resources>
